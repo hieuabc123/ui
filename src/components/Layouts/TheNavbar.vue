@@ -87,6 +87,7 @@ export default {
 </script>
 
 <style scoped>
+/* test comment */
 .navbar{
     position: absolute;
     border: 1px solid black;
